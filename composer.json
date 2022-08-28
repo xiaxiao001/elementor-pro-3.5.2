@@ -1,0 +1,21 @@
+{
+"name": "xiaxiao001/elementor-pro-3.5.2",
+"description": "",
+"keywords": [
+	"wordpress",
+	"plugin"
+],
+"homepage":
+"https://github.com/xiaxiao001/elementor-pro-3.5.2",
+"authors": [
+	{
+		"name": "Elementor-pro",
+		"homepage":
+		"https://eileenlue.com"
+	}
+],
+"type": "wordpress-plugin",
+	"require": {
+		"php": ">5.6"
+	}
+}
